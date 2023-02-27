@@ -13,7 +13,7 @@
 </div>
 
 ## Introduction
-Welcome to "The Perfect Pizza" GitHub page! Our project is a website designed for a pizza store called "The Perfect Pizza" and it's coming soon to York University Keele Campus. Our website is built with HTML, CSS, and JavaScript, and provides users with a user-friendly interface to easily place their orders and get their perfect pizzas. With this repository, you can easily contribute to the project, suggest new features, and report any bugs. Thank you for your interest and happy coding!
+Welcome to "The Perfect Pizza" GitHub page! My project is a website designed for a pizza store called "The Perfect Pizza" and it's coming soon to York University Keele Campus. My website is built with HTML, CSS, and JavaScript, and provides users with a user-friendly interface to easily place their orders and get their perfect pizzas. With this repository, you can easily contribute to the project, suggest new features, and report any bugs. Thank you for your interest and happy coding!
 
 
 
