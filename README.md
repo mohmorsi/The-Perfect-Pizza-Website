@@ -12,9 +12,16 @@
 <img src="https://i.ibb.co/XksF9n1/logo.jpg" alt="The_Perfect_Pizza.png" width="333"/>
 </div>
 
+
+## Table of Contents
+* [Introduction](#introduction) 
+* [Demo](#demo)
+* [License](#license)
+* [Contributors](#contributors)
+* [Questions](#questions)
+
 ## Introduction
 Welcome to "The Perfect Pizza" GitHub page! My project is a website designed for a pizza store called "The Perfect Pizza" and it's coming soon to York University Keele Campus. My website is built with HTML, CSS, and JavaScript, and provides users with a user-friendly interface to easily place their orders and get their perfect pizzas. With this repository, you can easily contribute to the project, suggest new features, and report any bugs. Thank you for your interest and happy coding!
-
 
 
 ## Demo
